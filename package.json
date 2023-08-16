@@ -1,0 +1,17 @@
+{
+  "name": "boj-file-generator",
+  "version": "1.0.0",
+  "description": "BOJ 파일 자동 생성 스크립트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "milk717",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "roman-numerals": "^0.3.2"
+  }
+}
