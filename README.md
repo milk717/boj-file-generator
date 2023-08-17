@@ -1,6 +1,11 @@
 # BOJ 파일 자동 생성 스크립트
 > BOJ 문제 링크를 입력받아 `문제번호_문제이름_티어` 형식의 파일을 생성해주는 스크립트입니다. 
 # 실행 방법
+## 0. 종속성 설치
+`npm install` 명령어를 사용해 `package.json`에 있는 종속성을 설치해주세요.
+```shell
+npm install
+```
 ## 1. git clone을 이용해서 코드를 내려받기
 ```shell
 git clone https://github.com/milk717/boj-file-generator.git
