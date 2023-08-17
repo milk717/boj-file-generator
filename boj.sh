@@ -14,6 +14,7 @@ catch() {
     if [ "$2" == "21" ]; then
       echo "올바른 링크 형식을 입력해주세요."
     fi
+    exit 1
   fi
 }
 
